@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "a simple tic-tac-toe game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-day/tic-tac-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alan-day/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/Alan-day/tic-tac-toe#readme",
+  "dependencies": {
+    "canvas-confetti": "^1.6.0"
+  }
+}
